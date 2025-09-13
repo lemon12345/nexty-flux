@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "title": "父亲节定制肖像画礼物",
+    "description": "用个性化肖像礼物庆祝父亲节。将重要时刻的照片转换成美丽的油画、梦幻的水彩画、酷炫的素描、优雅的矢量艺术、可爱的卡通等多种风格。用您个人的照片体验艺术的迷人魔力。由我们最先进的照片转艺术AI生成器提供支持。亲自尝试一下。"
+  },
+  "hero": {
+    "title": "为父亲节创建个性化肖像礼物",
+    "description": "用个性化肖像礼物庆祝父亲节。将重要时刻的照片转换成美丽的油画、梦幻的水彩画、酷炫的素描、优雅的矢量艺术、可爱的卡通等多种风格。用您个人的照片体验艺术的迷人魔力。由我们最先进的照片转艺术AI生成器提供支持。亲自尝试一下。"
+  },
+  "examples": {
+    "title": "父亲节肖像礼物示例",
+    "description": "看看您父亲的照片如何被转换成多种风格的美丽艺术礼物"
+  },
+  "faq": {
+    "title": "常见问题",
+    "description": "获取关于创建父亲节肖像礼物的常见问题答案"
+  },
+  "cta": {
+    "title": "准备好创建父亲节肖像礼物了吗？",
+    "description": "立即开始为您的父亲创建美丽的肖像礼物",
+    "button": "立即开始"
+  },
+  "client": {
+    "upload": {
+      "title": "上传您父亲的照片",
+      "dropText": "将照片拖放到这里，或点击加载",
+      "clickText": "支持JPG、PNG、WEBP格式",
+      "process": "创建父亲节礼物",
+      "processing": "创建中...",
+      "uploading": "上传中...",
+      "uploadingSubtext": "请稍候，正在处理您的图像",
+      "validationError": "请选择有效的图像文件",
+      "sizeError": "图像大小不能超过 {size}MB",
+      "uploadError": "上传失败，请重试",
+      "dragActive": "将图像放在这里",
+      "dragInactive": "拖放图像到这里或点击选择",
+      "supportedFormats": "支持JPG、PNG、WebP（最大{size}MB）"
+    },
+    "form": {
+      "promptLabel": "描述",
+      "promptPlaceholder": "描述您希望父亲节肖像礼物看起来如何...",
+      "outputFormatLabel": "输出格式",
+      "seedLabel": "种子值",
+      "seedPlaceholder": "输入种子值（可选）",
+      "advancedSettings": "高级设置",
+      "submitValidation": "请上传图像并输入描述",
+      "uploadInProgress": "图像上传中，请稍候",
+      "maxQualityLabel": "启用 MAX 质量模型",
+      "maxQualityDescription": "更好的结果，每张图像需要 {credits} 积分"
+    },
+    "processing": {
+      "processing": "处理中...",
+      "transformButton": "转换成父亲节肖像礼物（{credits}积分）",
+      "insufficientCredits": "积分不足，无法处理图像",
+      "getCreditsAction": "获取积分",
+      "submitError": "提交失败，请重试"
+    },
+    "result": {
+      "title": "您的父亲节肖像礼物结果",
+      "placeholder": "处理完成后，您的父亲节肖像礼物将显示在这里",
+      "download": "下载结果"
+    },
+    "features": [
+      {
+        "title": "个性化父亲节礼物",
+        "description": "为父亲节创建各种艺术风格和效果的个性化肖像礼物"
+      },
+      {
+        "title": "多种艺术风格",
+        "description": "从各种艺术风格和效果中选择"
+      },
+      {
+        "title": "快速AI处理",
+        "description": "使用先进的AI技术，几分钟内获得结果"
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "title": "从照片创建定制复古绘画",
+    "description": "将您的照片个性化成经典复古艺术、美丽的油画、梦幻的水彩画、可爱的卡通、酷炫的素描等多种风格。用您自己的照片体验艺术的迷人魔力。由我们最先进的照片转艺术AI生成器提供支持。亲自尝试一下。",
+    "keywords": [
+      "复古艺术",
+      "复古绘画",
+      "怀旧艺术",
+      "复古照片",
+      "古典艺术",
+      "经典艺术",
+      "复古滤镜",
+      "老式艺术",
+      "棕褐色艺术",
+      "复古风格",
+      "怀旧绘画",
+      "怀旧艺术",
+      "复古海报",
+      "老化艺术",
+      "复古设计"
+    ]
+  },
+  "hero": {
+    "badge": "AI复古艺术",
+    "title": "将您的照片变成经典复古艺术！",
+    "description": "将您的照片个性化成经典复古艺术、美丽的油画、梦幻的水彩画、可爱的卡通、酷炫的素描等多种风格。用您自己的照片体验艺术的迷人魔力。由我们最先进的照片转艺术AI生成器提供支持。亲自尝试一下。",
+    "subtitle": "将您喜爱的照片转换成永恒的复古杰作，捕捉经典艺术风格的精髓。",
+    "features": [
+      "经典复古风格",
+      "多种艺术效果",
+      "高质量输出",
+      "快速AI处理"
+    ],
+    "styleIcons": [
+      "复古照片",
+      "艺术绘画",
+      "快速处理"
+    ]
+  },
+  "examples": {
+    "title": "复古艺术示例",
+    "description": "看看您的照片如何被转换成经典复古艺术杰作",
+    "referencePhoto": "参考照片",
+    "vintageLabel": "复古"
+  },
+  "whatMakesDifferent": {
+    "title": "我们的独特之处",
+    "description": "了解为什么PortraitArt是复古艺术创作的最佳选择",
+    "features": [
+      "AI驱动的复古艺术创作",
+      "经典复古绘画风格",
+      "保留原始照片细节",
+      "永恒的艺术魅力",
+      "快速处理时间",
+      "专业级结果"
+    ]
+  },
+  "features": {
+    "title": "功能特点",
+    "description": "用于创建令人惊叹的复古艺术的先进AI技术",
+    "items": [
+      {
+        "title": "AI复古风格",
+        "description": "使用我们先进的AI技术将照片转换为经典复古绘画。"
+      },
+      {
+        "title": "快速处理",
+        "description": "通过我们优化的处理管道，几分钟内获得您的复古艺术。"
+      },
+      {
+        "title": "隐私保护",
+        "description": "您的照片经过安全处理，永远不会被永久存储。"
+      },
+      {
+        "title": "多种风格",
+        "description": "从各种复古风格中选择，以匹配您的喜好。"
+      }
+    ]
+  },
+  "useCases": {
+    "title": "使用场景",
+    "description": "适用于各种场合和用途",
+    "items": [
+      {
+        "title": "个人礼品",
+        "description": "为生日、纪念日和特殊场合创建独特的复古艺术。"
+      },
+      {
+        "title": "节日卡片",
+        "description": "用家庭照片设计个性化的复古节日卡片。"
+      },
+      {
+        "title": "社交媒体",
+        "description": "将您的照片转换为经典复古艺术，用于社交平台。"
+      },
+      {
+        "title": "家庭肖像",
+        "description": "将家庭照片转换为永恒的复古艺术，用于家居装饰。"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "description": "获取关于复古艺术创作的常见问题答案",
+    "questions": [
+      {
+        "question": "应用程序是否基于我的照片创建定制的复古绘画？",
+        "answer": "PortraitArt应用程序将您的照片转换为精彩的艺术作品。每件作品都基于您提供的照片独特生成，保留原始图像的内容、构图和本质。"
+      },
+      {
+        "question": "我应该使用什么样的照片？",
+        "answer": "PortraitArt适用于各种类型的照片，包括肖像、团体照、宠物照片、建筑物和风景。为了获得最佳效果，请使用具有良好照明和清晰背景的高分辨率图像。"
+      },
+      {
+        "question": "我的照片还可以转换成哪些其他艺术风格？",
+        "answer": "PortraitArt除了复古绘画外，还提供各种艺术风格，包括古典油画、水彩画、插画、彩色线条艺术、铅笔素描、线条素描、3D和2D卡通、波普艺术、漫画、填色页、雕塑、中国水墨画等。"
+      },
+      {
+        "question": "PortraitArt如何处理我的数据？",
+        "answer": "您的数据安全和隐私是我们的首要任务。上传到PortraitArt的所有照片都经过安全处理，仅用于创建您的艺术品。未经您的同意，我们不会存储、共享或将您的照片用于任何其他目的。此外，所有数据传输都经过加密以保护您的个人信息。您可以在创建和下载艺术图片后选择删除数据。"
+      },
+      {
+        "question": "我可以在购买前看到预览吗？",
+        "answer": "是的！PortraitArt提供免费试用，您可以先试用。"
+      }
+    ]
+  },
+  "cta": {
+    "title": "准备好创建复古艺术了吗？",
+    "description": "立即开始从您的照片创建经典复古杰作",
+    "button": "立即开始"
+  },
+  "client": {
+    "upload": {
+      "title": "上传您的照片",
+      "dropText": "将照片拖放到这里，或点击加载",
+      "clickText": "支持JPG、PNG、WEBP格式",
+      "process": "创建复古艺术",
+      "processing": "创建中...",
+      "uploading": "上传中...",
+      "uploadingSubtext": "请稍候，正在处理您的图像",
+      "validationError": "请选择有效的图像文件",
+      "sizeError": "图像大小不能超过 {size}MB",
+      "uploadError": "上传失败，请重试",
+      "dragActive": "将图像放在这里",
+      "dragInactive": "拖放图像到这里或点击选择",
+      "supportedFormats": "支持JPG、PNG、WebP（最大{size}MB）"
+    },
+    "form": {
+      "promptLabel": "描述",
+      "promptPlaceholder": "Transform to Makoto Shinkai Style",
+      "outputFormatLabel": "输出格式",
+      "seedLabel": "种子值",
+      "seedPlaceholder": "输入种子值（可选）",
+      "advancedSettings": "高级设置",
+      "submitValidation": "请上传图像并输入描述",
+      "uploadInProgress": "图像上传中，请稍候",
+      "maxQualityLabel": "启用 MAX 质量模型",
+      "maxQualityDescription": "更好的结果，每张图像需要 {credits} 积分"
+    },
+    "processing": {
+      "processing": "处理中...",
+      "transformButton": "转换成复古艺术（{credits}积分）",
+      "insufficientCredits": "积分不足，无法处理图像",
+      "getCreditsAction": "获取积分",
+      "submitError": "提交失败，请重试"
+    },
+    "result": {
+      "title": "您的复古艺术结果",
+      "placeholder": "处理完成后，您的复古艺术将显示在这里",
+      "download": "下载结果"
+    },
+    "features": [
+      {
+        "title": "经典复古",
+        "description": "创建具有怀旧、复古美学和永恒魅力的经典复古艺术作品"
+      },
+      {
+        "title": "多种艺术风格",
+        "description": "从各种艺术风格和效果中选择"
+      },
+      {
+        "title": "快速AI处理",
+        "description": "使用先进的AI技术，几分钟内获得结果"
+      }
+    ]
+  }
+}

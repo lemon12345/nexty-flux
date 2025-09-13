@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "title": "Custom vintage painting from photos",
+    "description": "Personalize your photos into classic vintage arts, beautiful oil paintings, dreamy watercolors, cute cartoons, cool sketches, and many more styles. Experience the enchanting magic of art with your own pictures. Powered by our state-of-the-art photo-to-art AI generator. Try it yourself.",
+    "keywords": [
+      "vintage art",
+      "vintage painting",
+      "retro art",
+      "vintage photo",
+      "antique art",
+      "classic art",
+      "vintage filter",
+      "old fashioned art",
+      "sepia art",
+      "vintage style",
+      "retro painting",
+      "nostalgic art",
+      "vintage poster",
+      "aged art",
+      "vintage design"
+    ]
+  },
+  "hero": {
+    "badge": "AI Vintage Art",
+    "title": "Turn your photos into classic vintage arts!",
+    "description": "Personalize your photos into classic vintage arts, beautiful oil paintings, dreamy watercolors, cute cartoons, cool sketches, and many more styles. Experience the enchanting magic of art with your own pictures. Powered by our state-of-the-art photo-to-art AI generator. Try it yourself.",
+    "subtitle": "Transform your favorite photos into timeless vintage masterpieces that capture the essence of classic art styles.",
+    "features": [
+      "Classic Vintage Styles",
+      "Multiple Art Effects",
+      "High Quality Output",
+      "Fast AI Processing"
+    ],
+    "styleIcons": [
+      "Vintage Photo",
+      "Art Painting",
+      "Fast Processing"
+    ]
+  },
+  "examples": {
+    "title": "Vintage Art Examples",
+    "description": "See how your photos can be transformed into classic vintage art masterpieces",
+    "referencePhoto": "Reference photo",
+    "vintageLabel": "Vintage"
+  },
+  "whatMakesDifferent": {
+    "title": "What Makes Us Different",
+    "description": "Discover why PortraitArt is the best choice for vintage art creation",
+    "features": [
+      "AI-powered vintage art creation",
+      "Classic vintage painting style",
+      "Preserves original photo details",
+      "Timeless artistic appeal",
+      "Fast processing time",
+      "Professional results"
+    ]
+  },
+  "features": {
+    "title": "Features",
+    "description": "Advanced AI technology for creating stunning vintage art",
+    "items": [
+      {
+        "title": "AI Vintage Style",
+        "description": "Transform photos into classic vintage paintings with our advanced AI technology."
+      },
+      {
+        "title": "Fast Processing",
+        "description": "Get your vintage art in minutes with our optimized processing pipeline."
+      },
+      {
+        "title": "Privacy Protected",
+        "description": "Your photos are processed securely and never stored permanently."
+      },
+      {
+        "title": "Multiple Styles",
+        "description": "Choose from various vintage styles to match your preferences."
+      }
+    ]
+  },
+  "useCases": {
+    "title": "Use Cases",
+    "description": "Perfect for various occasions and purposes",
+    "items": [
+      {
+        "title": "Personal Gifts",
+        "description": "Create unique vintage art for birthdays, anniversaries, and special occasions."
+      },
+      {
+        "title": "Holiday Cards",
+        "description": "Design personalized vintage holiday cards with family photos."
+      },
+      {
+        "title": "Social Media",
+        "description": "Transform your photos into classic vintage art for social platforms."
+      },
+      {
+        "title": "Family Portraits",
+        "description": "Turn family photos into timeless vintage art for home decoration."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Get answers to common questions about vintage art creation",
+    "questions": [
+      {
+        "question": "Does the app create a customized vintage painting based on my photo?",
+        "answer": "The PortraitArt app transforms your photos into stunning works of art. Each piece is uniquely generated from the photo you provide, preserving the content, composition, and essence of the original image."
+      },
+      {
+        "question": "What kind of photos should I use?",
+        "answer": "PortraitArt works with various types of photos, including portraits, group shots, pet photos, buildings, and scenic views. For optimal results, use high-resolution images with good lighting and a clear background."
+      },
+      {
+        "question": "What other art styles can my photo be converted to?",
+        "answer": "PortraitArt offers a variety of art styles besides vintage painting, including oil painting, watercolor, illustration, colored line art, pencil sketch, line sketch, 3D and 2D cartoons, pop art, caricature, coloring pages, sculpture, Chinese ink, and more."
+      },
+      {
+        "question": "How does PortraitArt handle my data?",
+        "answer": "Your data safety and privacy are our top priorities. All photos uploaded to PortraitArt are securely processed and used solely for creating your artwork. We do not store, share, or use your photos for any other purposes without your consent. Additionally, all data transmission is encrypted to protect your personal information. And you can choose to delete your data after creating and downloading your art pictures."
+      },
+      {
+        "question": "Can I see a preview before buying?",
+        "answer": "Yes! PortraitArt offers a free trial so you can try it out first."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Create Vintage Art?",
+    "description": "Start creating classic vintage masterpieces from your photos today",
+    "button": "Get Started Now"
+  },
+  "client": {
+    "upload": {
+      "title": "Upload Your Photo",
+      "dropText": "Drop a photo here, or click to load one",
+      "clickText": "Supports JPG, PNG, WEBP formats",
+      "process": "Create Vintage Art",
+      "processing": "Creating...",
+      "uploading": "Uploading...",
+      "uploadingSubtext": "Please wait while we process your image",
+      "validationError": "Please select a valid image file",
+      "sizeError": "Image size cannot exceed {size}MB",
+      "uploadError": "Upload failed, please try again",
+      "dragActive": "Drop the image here",
+      "dragInactive": "Drag & drop an image here or click to select",
+      "supportedFormats": "Supports JPG, PNG, WebP (Max {size}MB)"
+    },
+    "form": {
+      "promptLabel": "Description",
+      "promptPlaceholder": "Transform to Makoto Shinkai Style",
+      "outputFormatLabel": "Output Format",
+      "seedLabel": "Seed Value",
+      "seedPlaceholder": "Enter seed value (optional)",
+      "advancedSettings": "Advanced Settings",
+      "submitValidation": "Please upload an image and enter a description",
+      "uploadInProgress": "Image upload in progress, please wait",
+      "maxQualityLabel": "Enable MAX Quality Model",
+      "maxQualityDescription": "Better results, costs {credits} credits per image"
+    },
+    "processing": {
+      "processing": "Processing...",
+      "transformButton": "Transform to Vintage Art ({credits} credits)",
+      "insufficientCredits": "Insufficient credits to process image",
+      "getCreditsAction": "Get Credits",
+      "submitError": "Submit failed, please try again"
+    },
+    "result": {
+      "title": "Your Vintage Art Result",
+      "placeholder": "Your vintage art will appear here after processing",
+      "download": "Download Result"
+    },
+    "features": [
+      {
+        "title": "Classic Vintage",
+        "description": "Create classic vintage artworks with nostalgic, retro aesthetics and timeless appeal"
+      },
+      {
+        "title": "Multiple Art Styles",
+        "description": "Choose from various artistic styles and effects"
+      },
+      {
+        "title": "Fast AI Processing",
+        "description": "Get results in minutes with advanced AI technology"
+      }
+    ]
+  }
+}

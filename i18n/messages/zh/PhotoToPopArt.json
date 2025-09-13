@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "title": "从照片创建专业肖像艺术",
+    "description": "将您的照片转换为专业的肖像艺术作品。使用先进的AI技术生成高质量的专业头像，适用于商务资料、个人品牌和社交媒体。体验艺术与专业性的完美结合。",
+    "keywords": [
+      "肖像",
+      "肖像画",
+      "肖像艺术",
+      "肖像绘画",
+      "肖像素描",
+      "肖像照片",
+      "家庭照片",
+      "家庭画像"
+    ]
+  },
+  "hero": {
+    "title": "将您的照片变成专业肖像艺术！",
+    "description": "将您的照片转换成专业的肖像艺术作品！我们的AI技术以精致的细节、专业的质感和艺术化的风格重新诠释您的图像。这种专业的艺术风格适用于商务头像、个人品牌、LinkedIn档案等专业场合。让您的形象更加专业和艺术化。",
+    "subtitle": "使用PortraitArt，您可以将照片转换为专业的肖像艺术，同时还支持多种艺术风格，如油画、水彩画、素描等。体验专业与艺术的完美结合，由我们最先进的AI生成器提供支持。"
+  },
+  "examples": {
+    "title": "专业肖像艺术示例",
+    "description": "看看您的照片如何被转换成专业的肖像艺术作品"
+  },
+  "whatMakesDifferent": {
+    "title": "我们的独特之处",
+    "description": "了解为什么PortraitArt是专业肖像艺术创作的最佳选择"
+  },
+  "features": {
+    "title": "功能特点",
+    "description": "用于创建专业肖像艺术的先进AI技术"
+  },
+  "useCases": {
+    "title": "使用场景",
+    "description": "适用于专业和商务场合"
+  },
+  "faq": {
+    "title": "常见问题",
+    "description": "获取关于专业肖像艺术创作的常见问题答案"
+  },
+  "cta": {
+    "title": "准备好创建专业肖像艺术了吗？",
+    "description": "立即开始从您的照片创建专业的肖像艺术作品",
+    "button": "立即开始"
+  },
+  "client": {
+    "upload": {
+      "title": "上传您的照片",
+      "dropText": "将照片拖放到这里，或点击加载",
+      "clickText": "支持JPG、PNG、WEBP格式",
+      "process": "创建专业肖像艺术",
+      "processing": "创建中...",
+      "uploading": "上传中...",
+      "uploadingSubtext": "请稍候，正在处理您的图像",
+      "validationError": "请选择有效的图像文件",
+      "sizeError": "图像大小不能超过 {size}MB",
+      "uploadError": "上传失败，请重试",
+      "dragActive": "将图像放在这里",
+      "dragInactive": "拖放图像到这里或点击选择",
+      "supportedFormats": "支持JPG、PNG、WebP（最大{size}MB）"
+    },
+    "form": {
+      "genderLabel": "性别",
+      "genderFemale": "女性",
+      "genderMale": "男性",
+      "seedLabel": "种子值",
+      "seedPlaceholder": "输入种子值（可选）",
+      "advancedSettings": "高级设置",
+      "submitValidation": "请上传图像",
+      "uploadInProgress": "图像上传中，请稍候"
+    },
+    "processing": {
+      "processing": "处理中...",
+      "transformButton": "生成专业头像（{credits}积分）",
+      "insufficientCredits": "积分不足，无法处理图像",
+      "getCreditsAction": "获取积分",
+      "submitError": "提交失败，请重试"
+    },
+    "result": {
+      "title": "您的专业头像结果",
+      "placeholder": "处理完成后，您的专业头像将显示在这里",
+      "download": "下载结果"
+    },
+    "features": [
+      {
+        "title": "专业肖像艺术",
+        "description": "创建具有专业质感和艺术风格的高质量肖像作品"
+      },
+      {
+        "title": "商务级品质",
+        "description": "适用于专业场合的高质量艺术效果"
+      },
+      {
+        "title": "快速AI处理",
+        "description": "使用先进的AI技术，几分钟内获得专业结果"
+      }
+    ]
+  }
+}

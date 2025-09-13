@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "title": "Custom portrait painting from photo",
+    "description": "Personalize your portrait photos into beautiful oil paintings, dreamy watercolors, cool sketches, elegant vector art, cute cartoons, and many more styles. Experience the enchanting magic of art with your own pictures. Powered by our state-of-the-art photo-to-art AI generator. Try it yourself."
+  },
+  "hero": {
+    "title": "Turns Your Portrait Photos into Beautiful Art!",
+    "description": "Custom portrait art is a unique and personalized way to decorate your home, make holiday cards, or give as a thoughtful gift. Traditionally, commissioning an artist for such work has been time-consuming and expensive. Now, you can create these unique pieces yourself.",
+    "subtitle": "At PortraitArt, you can convert your portrait photos into beautiful oil paintings, dreamy watercolors, cute cartoons, cool sketches, elegant vector art, engaging coloring pages, vibrant pop art, vivid sculpture, funny caricature, and many more styles. Experience the enchanting magic of art with your own pictures. Powered by our state-of-the-art photo-to-art AI generator. Try it yourself."
+  },
+  "examples": {
+    "title": "Portrait Art Examples",
+    "description": "See how your portrait photos can be transformed into beautiful art in multiple styles"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Get answers to common questions about portrait art creation"
+  },
+  "cta": {
+    "title": "Ready to Create Portrait Art?",
+    "description": "Start creating beautiful portrait art from your photos today",
+    "button": "Get Started Now"
+  },
+  "client": {
+    "upload": {
+      "title": "Upload Your Portrait Photo",
+      "dropText": "Drop a photo here, or click to load one",
+      "clickText": "Supports JPG, PNG, WEBP formats",
+      "process": "Create Portrait Art",
+      "processing": "Creating...",
+      "uploading": "Uploading...",
+      "uploadingSubtext": "Please wait while we process your image",
+      "validationError": "Please select a valid image file",
+      "sizeError": "Image size cannot exceed {size}MB",
+      "uploadError": "Upload failed, please try again",
+      "dragActive": "Drop the image here",
+      "dragInactive": "Drag & drop an image here or click to select",
+      "supportedFormats": "Supports JPG, PNG, WebP (Max {size}MB)"
+    },
+    "form": {
+      "promptLabel": "Description",
+      "promptPlaceholder": "Describe how you want your portrait art to look...",
+      "outputFormatLabel": "Output Format",
+      "seedLabel": "Seed Value",
+      "seedPlaceholder": "Enter seed value (optional)",
+      "advancedSettings": "Advanced Settings",
+      "submitValidation": "Please upload an image and enter a description",
+      "uploadInProgress": "Image upload in progress, please wait",
+      "maxQualityLabel": "Enable MAX Quality Model",
+      "maxQualityDescription": "Better results, costs {credits} credits per image"
+    },
+    "processing": {
+      "processing": "Processing...",
+      "transformButton": "Transform to Portrait Art ({credits} credits)",
+      "insufficientCredits": "Insufficient credits to process image",
+      "getCreditsAction": "Get Credits",
+      "submitError": "Submit failed, please try again"
+    },
+    "result": {
+      "title": "Your Portrait Art Result",
+      "placeholder": "Your portrait art will appear here after processing",
+      "download": "Download Result"
+    },
+    "features": [
+      {
+        "title": "Beautiful Portrait Art",
+        "description": "Transform your portrait photos into beautiful artistic masterpieces with various styles and effects"
+      },
+      {
+        "title": "Multiple Art Styles",
+        "description": "Choose from various artistic styles and effects"
+      },
+      {
+        "title": "Fast AI Processing",
+        "description": "Get results in minutes with advanced AI technology"
+      }
+    ]
+  }
+}

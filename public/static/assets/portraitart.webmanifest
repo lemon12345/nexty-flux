@@ -1,0 +1,10 @@
+{
+  "name": "PortraitArt",
+  "short_name": "PortraitArt",
+  "lang": "en-US",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "background_color": "#080706",
+  "theme_color": "#080706"
+}

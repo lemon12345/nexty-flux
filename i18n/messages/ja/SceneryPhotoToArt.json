@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "写真からの風景画",
+    "description": "あなたのアウトドア写真を美しい油絵、夢のような水彩画、クールなスケッチ、エレガントなベクターアートなど、多くのスタイルに個性化します。あなた自身の写真でアートの魅惑的な魔法を体験してください。私たちの最先端の写真からアートへのAIジェネレーターによって提供されています。自分で試してみてください。"
+  },
+  "hero": {
+    "badge": "AI風景アート",
+    "title": "風景写真を美しいアートに変身させよう！",
+    "description": "あなたのアウトドア風景写真を美しい油絵、夢のような水彩画、クールなスケッチ、エレガントなベクターアートなど、多くのスタイルに個性化します。あなた自身の写真でアートの魅惑的な魔法を体験してください。",
+    "subtitle": "私たちの最先端の写真からアートへのAIジェネレーターによって提供され、アウトドアと風景写真に最適化されています。",
+    "features": [
+      "複数のアートスタイル",
+      "プロフェッショナル風景処理",
+      "高品質出力",
+      "高速AI処理",
+      "プライバシー保護"
+    ]
+  },
+  "examples": {
+    "title": "風景アートの例",
+    "description": "あなたのアウトドア写真が複数のスタイルで美しいアートワークにどのように変換されるかを見てください"
+  },
+  "faq": {
+    "title": "よくある質問",
+    "description": "写真から風景アートを作成することに関する一般的な質問の答えを得る"
+  },
+  "cta": {
+    "title": "風景写真を変換する準備はできましたか？",
+    "description": "今日からあなたのアウトドア写真から美しいアートワークの作成を始めましょう",
+    "button": "今すぐ始める"
+  },
+  "client": {
+    "upload": {
+      "title": "風景写真をアップロード",
+      "dropText": "写真をここにドロップするか、クリックしてロード",
+      "clickText": "JPG、PNG、WEBP形式をサポート",
+      "process": "風景アートを作成",
+      "processing": "作成中...",
+      "uploading": "アップロード中...",
+      "uploadingSubtext": "画像を処理中です。お待ちください",
+      "validationError": "有効な画像ファイルを選択してください",
+      "sizeError": "画像サイズは{size}MBを超えることはできません",
+      "uploadError": "アップロードに失敗しました。再試行してください",
+      "dragActive": "ここに画像をドロップ",
+      "dragInactive": "ここに画像をドラッグ＆ドロップするか、クリックして選択",
+      "supportedFormats": "JPG、PNG、WebPをサポート（最大{size}MB）"
+    },
+    "form": {
+      "promptLabel": "説明",
+      "promptPlaceholder": "風景アートワークがどのように見えるかを説明してください...",
+      "outputFormatLabel": "出力形式",
+      "seedLabel": "シード値",
+      "seedPlaceholder": "シード値を入力（オプション）",
+      "advancedSettings": "高度な設定",
+      "submitValidation": "画像をアップロードし、説明を入力してください",
+      "uploadInProgress": "画像アップロード中です。お待ちください",
+      "maxQualityLabel": "MAX品質モデルを有効にする",
+      "maxQualityDescription": "より良い結果、画像あたり{credits}クレジット"
+    },
+    "processing": {
+      "processing": "処理中...",
+      "transformButton": "風景アートに変換（{credits}クレジット）",
+      "insufficientCredits": "画像処理に十分なクレジットがありません",
+      "getCreditsAction": "クレジットを取得",
+      "submitError": "送信に失敗しました。再試行してください"
+    },
+    "result": {
+      "title": "あなたの風景アートワーク結果",
+      "placeholder": "処理が完了すると、ここに風景アートワークが表示されます",
+      "download": "結果をダウンロード"
+    },
+    "features": [
+      {
+        "title": "風景写真からアートへ",
+        "description": "様々なアートスタイルとエフェクトを持つアウトドア風景写真を美しいアートワークに変換"
+      },
+      {
+        "title": "複数のアートスタイル",
+        "description": "様々なアートスタイルとエフェクトから選択"
+      },
+      {
+        "title": "高速AI処理",
+        "description": "先進的なAI技術で数分以内に結果を取得"
+      }
+    ]
+  }
+}

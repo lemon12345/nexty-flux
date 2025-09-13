@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "title": "照片转油画AI：将图像转换为油画 | AI油画生成器",
+    "description": "使用AI将照片转换为油画。将照片转换为绘画，从照片制作油画，图像转绘画AI。免费在线照片转艺术转换器。瞬间将照片转换为美丽的艺术品。",
+    "keywords": [
+      "照片转油画",
+      "从照片制作油画",
+      "将图像转换为油画",
+      "图像转绘画ai",
+      "油画ai生成器",
+      "将照片转换为油画",
+      "ai图像油画",
+      "图像转油画",
+      "将照片转换为绘画",
+      "将照片转换为水彩画",
+      "免费在线将照片转换为数字油画",
+      "将照片转换为绘画",
+      "将我的照片转换为绘画",
+      "免费在线制作我的照片绘画",
+      "图像转水彩ai",
+      "照片转艺术转换器",
+      "图像转艺术渲染",
+      "将图片转换为艺术图像",
+      "图像转艺术转换器",
+      "将图像转换为ai艺术",
+      "免费在线从图像制作绘画",
+      "照片转绘画ai",
+      "油画",
+      "油画背景",
+      "油画作品",
+      "油画滤镜",
+      "油画剪贴画"
+    ]
+  },
+  "hero": {
+    "title": "照片转油画AI：将照片转换为美丽艺术品！",
+    "description": "使用我们先进的AI油画生成器将照片转换为油画。将任何图像转换为油画，将您的照片转换为水彩画，或创建令人惊叹的艺术渲染。我们的照片转艺术转换器让您轻松免费在线将图片转换为美丽的绘画。",
+    "subtitle": "除了油画，我们的AI图像转艺术转换器还能将照片转换为水彩画、素描、卡通、矢量艺术、涂色页、波普艺术、雕塑、漫画等。体验使用我们最先进的照片转绘画AI生成器将任何图像转换为AI艺术的魔力。"
+  },
+  "examples": {
+    "title": "照片转油画示例",
+    "description": "看看我们的AI油画生成器如何将图像转换为美丽的油画和水彩艺术"
+  },
+  "whatMakesDifferent": {
+    "title": "最佳照片转油画AI生成器",
+    "description": "了解为什么我们的AI图像转油画转换器是将照片转换为艺术杰作的首选"
+  },
+  "features": {
+    "title": "AI油画生成器功能",
+    "description": "用于将照片转换为油画和从图像创建艺术渲染的先进AI技术"
+  },
+  "useCases": {
+    "title": "照片转艺术使用场景",
+    "description": "非常适合为各种场合和艺术目的将图像转换为油画"
+  },
+  "faq": {
+    "title": "照片转油画常见问题",
+    "description": "关于将图像转换为油画和使用我们的AI艺术生成器的常见问题"
+  },
+  "cta": {
+    "title": "准备将照片转换为油画了吗？",
+    "description": "立即开始将您的照片转换为美丽的油画和水彩艺术",
+    "button": "立即创建油画"
+  },
+  "client": {
+    "upload": {
+      "title": "上传照片进行油画转换",
+      "dropText": "将照片拖放到这里转换为油画，或点击加载",
+      "clickText": "支持JPG、PNG、WEBP格式",
+      "process": "转换为油画",
+      "processing": "创建油画中...",
+      "uploading": "上传中...",
+      "uploadingSubtext": "请稍候，正在将您的图像转换为油画",
+      "validationError": "请选择有效的图像文件",
+      "sizeError": "图像大小不能超过 {size}MB",
+      "uploadError": "上传失败，请重试",
+      "dragActive": "将图像放在这里转换为油画",
+      "dragInactive": "拖放图像到这里或点击选择进行油画转换",
+      "supportedFormats": "支持JPG、PNG、WebP（最大{size}MB）"
+    },
+    "form": {
+      "promptLabel": "油画风格描述",
+      "promptPlaceholder": "描述您希望在将照片转换为油画时油画看起来如何...",
+      "outputFormatLabel": "输出格式",
+      "seedLabel": "种子值",
+      "seedPlaceholder": "输入种子值（可选）",
+      "advancedSettings": "高级设置",
+      "submitValidation": "请上传图像并输入描述",
+      "uploadInProgress": "图像上传中，请稍候",
+      "maxQualityLabel": "启用 MAX 质量模型",
+      "maxQualityDescription": "更好的油画结果，每张图像需要 {credits} 积分"
+    },
+    "processing": {
+      "processing": "转换为油画中...",
+      "transformButton": "将照片转换为油画（{credits}积分）",
+      "insufficientCredits": "积分不足，无法处理图像",
+      "getCreditsAction": "获取积分",
+      "submitError": "提交失败，请重试"
+    },
+    "result": {
+      "title": "您的油画结果",
+      "placeholder": "将照片转换为油画后，您的油画将显示在这里",
+      "download": "下载油画"
+    },
+    "features": [
+      {
+        "title": "照片转油画转换器",
+        "description": "使用AI驱动的图像转油画转换将照片转换为美丽的油画"
+      },
+      {
+        "title": "多种艺术风格",
+        "description": "将图像转换为油画、水彩画和各种艺术渲染"
+      },
+      {
+        "title": "快速AI艺术处理",
+        "description": "使用先进的AI图像转艺术转换技术，几分钟内将照片转换为绘画"
+      }
+    ]
+  }
+}

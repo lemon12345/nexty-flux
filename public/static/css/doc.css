@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(8,7,6);
+  color: rgb(200,199,198);
+}
+
+.doc-page {
+  max-width: 1024px;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.doc-page h2 {
+  font-size: 24px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.doc-page h3 {
+  font-size: 22px;
+}
+
+
+.doc-page nav .breadcrumb-item i {
+  color: #888;
+}

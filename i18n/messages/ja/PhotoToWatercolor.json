@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "title": "写真からカスタム水彩画を作成",
+    "description": "あなたの写真を夢のような水彩画、美しい油絵、かわいいカートゥーン、クールなスケッチ、エレガントなベクターアートなど、多くのスタイルにパーソナライズします。あなた自身の写真でアートの魅惑的な魔法を体験してください。私たちの最先端の写真からアートへのAIジェネレーターによって提供されています。自分で試してみてください。"
+  },
+  "hero": {
+    "title": "写真を夢のような水彩画に変えましょう！",
+    "description": "写真からアートへのアプリで写真を美しい水彩画に変えましょう。お気に入りの思い出であろうと風景であろうと、私たちの水彩画スタイルはあなたの美しい写真に特別なタッチを加えます。私たちがあなたの写真から、あなたが何年も愛するユニークなアートワークを作成しましょう。",
+    "subtitle": "水彩画に加えて、PortraitArtでは、美しい油絵、かわいいカートゥーン、クールなスケッチ、エレガントなベクターアート、魅力的な塗り絵、活気に満ちたポップアート、生き生きとした彫刻、面白いカリカチュアなど、写真を様々なスタイルにパーソナライズすることもできます。あなた自身の写真でアートの魅惑的な魔法を体験してください。私たちの最先端の写真からアートへのAIジェネレーターによって提供されています。自分で試してみてください。"
+  },
+  "examples": {
+    "title": "水彩画の例",
+    "description": "あなたの写真が夢のような水彩画の傑作にどのように変換されるかを見てください"
+  },
+  "whatMakesDifferent": {
+    "title": "私たちの特徴",
+    "description": "PortraitArtが水彩画作成の最良の選択肢である理由を発見してください"
+  },
+  "features": {
+    "title": "機能",
+    "description": "素晴らしい水彩画を作成するための先進的なAI技術"
+  },
+  "useCases": {
+    "title": "使用例",
+    "description": "様々な機会や目的に最適"
+  },
+  "faq": {
+    "title": "よくある質問",
+    "description": "水彩画作成に関する一般的な質問の答えを得る"
+  },
+  "cta": {
+    "title": "水彩画を作成する準備はできましたか？",
+    "description": "今日からあなたの写真から夢のような水彩画の傑作の作成を始めましょう",
+    "button": "今すぐ始める"
+  },
+  "client": {
+    "upload": {
+      "title": "写真をアップロード",
+      "dropText": "写真をここにドロップするか、クリックしてロード",
+      "clickText": "JPG、PNG、WEBP形式をサポート",
+      "process": "水彩画を作成",
+      "processing": "作成中...",
+      "uploading": "アップロード中...",
+      "uploadingSubtext": "画像を処理中です。お待ちください",
+      "validationError": "有効な画像ファイルを選択してください",
+      "sizeError": "画像サイズは{size}MBを超えることはできません",
+      "uploadError": "アップロードに失敗しました。再試行してください",
+      "dragActive": "ここに画像をドロップ",
+      "dragInactive": "ここに画像をドラッグ＆ドロップするか、クリックして選択",
+      "supportedFormats": "JPG、PNG、WebPをサポート（最大{size}MB）"
+    },
+    "form": {
+      "promptLabel": "説明",
+      "promptPlaceholder": "水彩画がどのように見えるかを説明してください...",
+      "outputFormatLabel": "出力形式",
+      "seedLabel": "シード値",
+      "seedPlaceholder": "シード値を入力（オプション）",
+      "advancedSettings": "高度な設定",
+      "submitValidation": "画像をアップロードし、説明を入力してください",
+      "uploadInProgress": "画像アップロード中です。お待ちください",
+      "maxQualityLabel": "MAX品質モデルを有効にする",
+      "maxQualityDescription": "より良い結果、画像あたり{credits}クレジット"
+    },
+    "processing": {
+      "processing": "処理中...",
+      "transformButton": "水彩画に変換（{credits}クレジット）",
+      "insufficientCredits": "画像処理に十分なクレジットがありません",
+      "getCreditsAction": "クレジットを取得",
+      "submitError": "送信に失敗しました。再試行してください"
+    },
+    "result": {
+      "title": "あなたの水彩画結果",
+      "placeholder": "処理が完了すると、ここに水彩画が表示されます",
+      "download": "結果をダウンロード"
+    },
+    "features": [
+      {
+        "title": "夢のような水彩画",
+        "description": "柔和な流れる色と芸術的な筆遣いを持つ夢のような水彩画を作成"
+      },
+      {
+        "title": "複数のアートスタイル",
+        "description": "様々なアートスタイルとエフェクトから選択"
+      },
+      {
+        "title": "高速AI処理",
+        "description": "先進的なAI技術で数分以内に結果を取得"
+      }
+    ]
+  }
+}

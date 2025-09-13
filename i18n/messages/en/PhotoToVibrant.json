@@ -1,0 +1,183 @@
+{
+  "metadata": {
+    "title": "PortraitArt: Add vibrant touches to your photos!",
+    "description": "Personalize your photos into vibrant art pieces, beautiful oil paintings, dreamy watercolors, cute cartoons, cool sketches, and many more styles. Experience the enchanting magic of art with your own pictures. Powered by our state-of-the-art photo-to-art AI generator. Try it yourself.",
+    "keywords": [
+      "cartoon sketch",
+      "caricature art",
+      "3d cartoon",
+      "cartoon cute",
+      "picture to cartoon",
+      "cartoonify an image",
+      "caricature",
+      "caricatura",
+      "caricatures",
+      "caricature drawing",
+      "cartoon drawing",
+      "horse cartoon",
+      "cute cartoon",
+      "cartoon art",
+      "cartoon background",
+      "image to cartoon converter",
+      "family photo cartoon",
+      "turn photo into cartoon",
+      "cartoon caricature",
+      "cartoons drawing",
+      "art cartoon",
+      "change photo to cartoon",
+      "cute cartoon drawings",
+      "dog cartoon drawing",
+      "images of cartoon characters"
+    ]
+  },
+  "hero": {
+    "badge": "AI Powered",
+    "title": "Add vibrant touches to your photos!",
+    "description": "Personalize your photos into vibrant art pieces, beautiful oil paintings, dreamy watercolors, cute cartoons, cool sketches, and many more styles. Experience the enchanting magic of art with your own pictures. Powered by our state-of-the-art photo-to-art AI generator. Try it yourself.",
+    "subtitle": "Transform your favorite photos into stunning vibrant artworks with our advanced AI technology. Each piece is uniquely generated from your photo, preserving the content, composition, and essence of the original image while adding vibrant colors and enhanced brightness.",
+    "styles": {
+      "vibrant": "Vibrant",
+      "colorful": "Colorful",
+      "enhanced": "Enhanced"
+    },
+    "features": [
+      "AI-Powered Enhancement",
+      "High-Quality Results",
+      "Fast Processing",
+      "Multiple Styles Available",
+      "Easy to Use"
+    ]
+  },
+  "whatMakesDifferent": {
+    "title": "What Makes Us Different",
+    "description": "Discover why PortraitArt is the best choice for vibrant art creation",
+    "features": [
+      "AI-powered vibrant art creation",
+      "Enhanced colors and brightness",
+      "Preserves original photo details",
+      "Multiple vibrant styles",
+      "Fast processing time",
+      "Professional results"
+    ]
+  },
+  "features": {
+    "title": "Features",
+    "description": "Advanced AI technology for creating stunning vibrant art",
+    "items": [
+      {
+        "title": "AI Vibrant Style",
+        "description": "Transform photos into vibrant artworks with our advanced AI technology."
+      },
+      {
+        "title": "Fast Processing",
+        "description": "Get your vibrant art in minutes with our optimized processing pipeline."
+      },
+      {
+        "title": "Privacy Protected",
+        "description": "Your photos are processed securely and never stored permanently."
+      },
+      {
+        "title": "Multiple Styles",
+        "description": "Choose from various vibrant styles to match your preferences."
+      }
+    ]
+  },
+  "useCases": {
+    "title": "Use Cases",
+    "description": "Perfect for various occasions and purposes",
+    "items": [
+      {
+        "title": "Personal Gifts",
+        "description": "Create unique vibrant art for birthdays, anniversaries, and special occasions."
+      },
+      {
+        "title": "Holiday Cards",
+        "description": "Design personalized vibrant holiday cards with family photos."
+      },
+      {
+        "title": "Social Media",
+        "description": "Transform your photos into eye-catching vibrant art for social platforms."
+      },
+      {
+        "title": "Family Portraits",
+        "description": "Turn family photos into vibrant artworks for home decoration."
+      }
+    ]
+  },
+  "examples": {
+    "title": "Vibrant Art Examples",
+    "description": "See how your photos can be transformed into vibrant artworks"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Get answers to common questions about vibrant art creation",
+    "items": [
+      {
+        "question": "Does the app create a customized vibrant oil painting based on my photo?",
+        "answer": "The PortraitArt app transforms your photos into stunning works of art. Each piece is uniquely generated from the photo you provide, preserving the content, composition, and essence of the original image."
+      },
+      {
+        "question": "What kind of photos should I use?",
+        "answer": "PortraitArt works with various types of photos, including portraits, group shots, pet photos, buildings, and scenic views. For optimal results, use high-resolution images with good lighting and a clear background."
+      },
+      {
+        "question": "What other art styles can my photo be converted to?",
+        "answer": "PortraitArt offers a variety of art styles besides vibrant oil painting, including classical oil painting, watercolor, illustration, colored line art, pencil sketch, line sketch, 3D and 2D cartoons, pop art, caricature, coloring pages, sculpture, Chinese ink, and more."
+      },
+      {
+        "question": "How does PortraitArt handle my data?",
+        "answer": "Your data safety and privacy are our top priorities. All photos uploaded to PortraitArt are securely processed and used solely for creating your artwork. We do not store, share, or use your photos for any other purposes without your consent. Additionally, all data transmission is encrypted to protect your personal information. And you can choose to delete your data after creating and downloading your art pictures."
+      },
+      {
+        "question": "Can I see a preview before buying?",
+        "answer": "Yes! PortraitArt offers a free trial so you can try it out first."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Create Vibrant Art?",
+    "description": "Start creating vibrant artworks from your photos today",
+    "button": "Get Started Now"
+  },
+  "client": {
+    "upload": {
+      "title": "Upload Your Photo",
+      "dropText": "Drop a photo here, or click to load one",
+      "clickText": "Supports JPG, PNG, WEBP formats",
+      "process": "Create Vibrant Art",
+      "processing": "Creating...",
+      "uploading": "Uploading...",
+      "uploadingSubtext": "Please wait while we process your image",
+      "validationError": "Please select a valid image file",
+      "sizeError": "Image size cannot exceed {size}MB",
+      "uploadError": "Upload failed, please try again",
+      "dragActive": "Drop the image here",
+      "dragInactive": "Drag & drop an image here or click to select",
+      "supportedFormats": "Supports JPG, PNG, WebP (Max {size}MB)"
+    },
+    "form": {
+      "promptLabel": "Description",
+      "promptPlaceholder": "Transform the image into linnea teal hair smiling, soft illustration style",
+      "outputFormatLabel": "Output Format",
+      "seedLabel": "Seed Value",
+      "seedPlaceholder": "Enter seed value (optional)",
+      "advancedSettings": "Advanced Settings",
+      "submitValidation": "Please upload an image and enter a description",
+      "uploadInProgress": "Image upload in progress, please wait",
+      "maxQualityLabel": "Enable MAX Quality Model",
+      "maxQualityDescription": "Better results, costs {credits} credits per image"
+    },
+    "processing": {
+      "processing": "Processing...",
+      "transformButton": "Transform to Vibrant Art ({credits} credits)",
+      "insufficientCredits": "Insufficient credits to process image",
+      "getCreditsAction": "Get Credits",
+      "submitError": "Submit failed, please try again"
+    },
+    "result": {
+      "title": "Your Vibrant Art Result",
+      "placeholder": "Your vibrant art will appear here after processing",
+      "download": "Download Result"
+    }
+  }
+}

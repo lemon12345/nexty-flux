@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "title": "图像转铅笔素描：照片转铅笔绘画 | AI图片转铅笔画",
+    "description": "使用AI将照片转换为铅笔绘画。图像转铅笔素描，照片转铅笔素描，AI图片转铅笔画。瞬间在线从照片创建铅笔艺术。",
+    "keywords": [
+      "图像转铅笔素描",
+      "照片转铅笔素描",
+      "图片转铅笔艺术",
+      "如何将图像制作成铅笔素描",
+      "ai图片转铅笔画",
+      "图像转铅笔绘画",
+      "将照片转换为铅笔绘画",
+      "用铅笔艺术创建照片",
+      "素描绘画",
+      "铅笔素描",
+      "素描画",
+      "铅笔素描绘画",
+      "图像转素描转换器",
+      "照片转素描转换器",
+      "照片转绘画",
+      "铅笔艺术绘画",
+      "照片转铅笔素描在线免费",
+      "绘画和素描",
+      "阴影绘画",
+      "素描AI",
+      "铅笔阴影绘画",
+      "铅笔素描",
+      "将照片变成素描",
+      "照片绘画",
+      "面部阴影",
+      "简单铅笔画",
+      "轮廓绘画",
+      "漫画"
+    ]
+  },
+  "hero": {
+    "title": "图像转铅笔素描：将照片转换为铅笔绘画！",
+    "description": "使用我们的AI图片转铅笔画生成器转换您的照片。将任何图像转为铅笔素描，将照片转为铅笔素描，从您的图片创建美丽的铅笔艺术。学习如何将图像制作成铅笔素描，使用我们先进的AI技术为您的照片带来经典的艺术风格。",
+    "subtitle": "我们的AI驱动的图像转铅笔绘画转换器创建具有精致线条和阴影的令人惊叹的铅笔素描。非常适合创建照片转铅笔素描艺术，将图像转换为铅笔绘画，以及生成图片转铅笔艺术的专业效果。"
+  },
+  "examples": {
+    "title": "图像转铅笔素描示例",
+    "description": "看看我们的AI图片转铅笔画生成器如何将照片转换为铅笔绘画"
+  },
+  "whatMakesDifferent": {
+    "title": "最佳照片转铅笔素描转换器",
+    "description": "了解为什么我们的AI图像转铅笔绘画转换器是创建铅笔艺术的首选"
+  },
+  "features": {
+    "title": "AI图像转铅笔素描功能",
+    "description": "用于将照片转换为铅笔绘画和创建令人惊叹的铅笔艺术的先进AI技术"
+  },
+  "useCases": {
+    "title": "照片转铅笔素描使用场景",
+    "description": "非常适合为各种艺术目的将图像转换为铅笔绘画"
+  },
+  "faq": {
+    "title": "照片转铅笔绘画常见问题",
+    "description": "关于将图像转换为铅笔素描和从照片创建铅笔艺术的常见问题"
+  },
+  "cta": {
+    "title": "准备将照片转换为铅笔绘画了吗？",
+    "description": "立即开始使用我们的AI图片转铅笔画工具从您的图像创建美丽的铅笔素描",
+    "button": "立即创建铅笔素描"
+  },
+  "client": {
+    "upload": {
+      "title": "上传照片进行铅笔绘画转换",
+      "dropText": "将照片拖放到这里转换为铅笔素描，或点击加载",
+      "clickText": "支持JPG、PNG、WEBP格式",
+      "process": "将照片转换为铅笔绘画",
+      "processing": "创建铅笔素描中...",
+      "uploading": "上传中...",
+      "uploadingSubtext": "请稍候，正在将您的图像转换为铅笔素描",
+      "validationError": "请选择有效的图像文件",
+      "sizeError": "图像大小不能超过 {size}MB",
+      "uploadError": "上传失败，请重试",
+      "dragActive": "将图像放在这里转换为铅笔绘画",
+      "dragInactive": "拖放图像到这里或点击选择进行铅笔素描转换",
+      "supportedFormats": "支持JPG、PNG、WebP（最大{size}MB）"
+    },
+    "form": {
+      "promptLabel": "铅笔素描风格描述",
+      "promptPlaceholder": "描述您希望在将图像转换为铅笔绘画时铅笔素描看起来如何...",
+      "outputFormatLabel": "输出格式",
+      "seedLabel": "种子值",
+      "seedPlaceholder": "输入种子值（可选）",
+      "advancedSettings": "高级设置",
+      "submitValidation": "请上传图像并输入描述",
+      "uploadInProgress": "图像上传中，请稍候",
+      "maxQualityLabel": "启用 MAX 质量模型",
+      "maxQualityDescription": "将照片转换为铅笔绘画时获得更好的铅笔素描结果，每张图像需要 {credits} 积分"
+    },
+    "processing": {
+      "processing": "将图像转换为铅笔素描中...",
+      "transformButton": "将照片转换为铅笔绘画（{credits}积分）",
+      "insufficientCredits": "积分不足，无法处理图像",
+      "getCreditsAction": "获取积分",
+      "submitError": "提交失败，请重试"
+    },
+    "result": {
+      "title": "您的铅笔素描结果",
+      "placeholder": "将照片转换为铅笔绘画后，您的铅笔素描将显示在这里",
+      "download": "下载铅笔素描"
+    },
+    "features": [
+      {
+        "title": "图像转铅笔素描转换器",
+        "description": "使用AI驱动的图像转铅笔绘画转换将照片转换为美丽的铅笔素描"
+      },
+      {
+        "title": "AI图片转铅笔画",
+        "description": "先进的AI技术将照片转换为具有艺术手绘风格的铅笔绘画"
+      },
+      {
+        "title": "快速铅笔艺术处理",
+        "description": "使用我们先进的AI图片转铅笔画生成器，几分钟内将图像转换为铅笔素描"
+      }
+    ]
+  }
+}

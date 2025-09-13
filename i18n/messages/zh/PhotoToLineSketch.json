@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "title": "照片转线条艺术：将照片转换为轮廓线 | AI线条绘画生成器",
+    "description": "使用AI将照片转换为线条艺术。将照片转换为可追踪的素描、轮廓线、轮廓素描。免费图像转线条绘画矢量转换器。瞬间将图片转换为线条艺术。",
+    "keywords": [
+      "照片转线条艺术",
+      "将照片转换为轮廓线",
+      "图像转线条绘画矢量",
+      "图像转换为轮廓素描",
+      "图像转线条艺术ai",
+      "将照片转换为线条艺术",
+      "照片转线条绘画",
+      "照片生成线条艺术",
+      "图像线条艺术生成器",
+      "照片转线条素描",
+      "肖像转线条艺术",
+      "图片转线条艺术",
+      "转换照片为线条艺术",
+      "照片变成线条艺术",
+      "图像转线条艺术",
+      "图像转素描轮廓",
+      "将照片转换为轮廓素描",
+      "将照片转换为可追踪素描",
+      "线条艺术",
+      "线条绘画",
+      "线条画",
+      "单线绘画",
+      "图像线条",
+      "线条艺术设计"
+    ]
+  },
+  "hero": {
+    "title": "照片转线条艺术：将照片转换为轮廓线和轮廓素描",
+    "description": "使用我们的AI线条绘画生成器将照片转换为线条艺术。将任何图片转换为线条艺术，创建可追踪的素描，瞬间将照片转换为美丽的轮廓线。",
+    "subtitle": "我们的图像转线条艺术转换器支持多种风格：线条绘画、轮廓素描、矢量线条艺术等。非常适合艺术家、设计师以及任何想要将照片转换为线条绘画的人。立即尝试我们的免费图像线条艺术生成器！"
+  },
+  "examples": {
+    "title": "照片转线条艺术示例",
+    "description": "看看我们的AI如何将照片转换为轮廓素描和轮廓线绘画"
+  },
+  "whatMakesDifferent": {
+    "title": "最佳照片转线条艺术转换器",
+    "description": "了解为什么我们的AI线条绘画生成器是将照片转换为可追踪素描的首选"
+  },
+  "features": {
+    "title": "AI线条艺术生成器功能",
+    "description": "先进的照片转线条艺术转换技术，用于创建令人惊叹的轮廓素描和轮廓绘画"
+  },
+  "useCases": {
+    "title": "使用场景",
+    "description": "适用于各种场合和用途"
+  },
+  "faq": {
+    "title": "照片转线条艺术常见问题",
+    "description": "关于将图像转换为线条绘画和轮廓素描的常见问题"
+  },
+  "cta": {
+    "title": "准备将照片转换为线条艺术了吗？",
+    "description": "立即开始将您的照片转换为美丽的线条绘画和轮廓素描",
+    "button": "立即创建线条艺术"
+  },
+  "client": {
+    "upload": {
+      "title": "上传照片进行线条艺术转换",
+      "dropText": "将照片拖放到这里转换为线条艺术，或点击加载",
+      "clickText": "支持JPG、PNG、WEBP格式",
+      "process": "转换为线条艺术",
+      "processing": "创建线条绘画中...",
+      "uploading": "上传中...",
+      "uploadingSubtext": "请稍候，正在处理您的图像进行线条艺术转换",
+      "validationError": "请选择有效的图像文件",
+      "sizeError": "图像大小不能超过 {size}MB",
+      "uploadError": "上传失败，请重试",
+      "dragActive": "将图像放在这里转换为线条艺术",
+      "dragInactive": "拖放图像到这里或点击选择进行线条艺术转换",
+      "supportedFormats": "支持JPG、PNG、WebP（最大{size}MB）"
+    },
+    "form": {
+      "promptLabel": "线条艺术风格描述",
+      "promptPlaceholder": "描述您希望线条艺术或轮廓素描看起来如何...",
+      "outputFormatLabel": "输出格式",
+      "seedLabel": "种子值",
+      "seedPlaceholder": "输入种子值（可选）",
+      "advancedSettings": "高级设置",
+      "submitValidation": "请上传图像并输入描述",
+      "uploadInProgress": "图像上传中，请稍候",
+      "maxQualityLabel": "启用 MAX 质量模型",
+      "maxQualityDescription": "更好的线条艺术结果，每张图像需要 {credits} 积分"
+    },
+    "processing": {
+      "processing": "转换为线条艺术中...",
+      "transformButton": "将照片转换为线条艺术（{credits}积分）",
+      "insufficientCredits": "积分不足，无法处理图像",
+      "getCreditsAction": "获取积分",
+      "submitError": "提交失败，请重试"
+    },
+    "result": {
+      "title": "您的线条艺术结果",
+      "placeholder": "处理完成后，您的线条艺术将显示在这里",
+      "download": "下载线条艺术"
+    },
+    "features": [
+      {
+        "title": "照片转线条艺术转换器",
+        "description": "使用AI驱动的轮廓线生成技术将任何照片转换为美丽的线条艺术"
+      },
+      {
+        "title": "轮廓素描生成器",
+        "description": "瞬间从您的图片创建可追踪的素描和矢量线条绘画"
+      },
+      {
+        "title": "快速AI线条绘画",
+        "description": "使用先进的AI处理技术，几分钟内将图像转换为素描轮廓"
+      }
+    ]
+  }
+}

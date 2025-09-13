@@ -1,0 +1,59 @@
+{
+  "Hero": {
+    "badge": "AI Image Generator & Graphic Art Platform",
+    "title": "Nexty Flux AI Image Generator & Editor",
+    "description": "Transform photos into digital drawings, create graphic art from images, and convert portraits into paintings. Our AI platform can turn accurate faces into paintings, create antique drawings from photos, and generate custom art with professional results. No design skills needed - just describe what you want.",
+    "getStarted": "Start Creating Art",
+    "getFreeTrial": "Free Trial (30 Cr)"
+  },
+  "Features": {
+    "title": "Professional AI Art Creation <highlight>Made Simple</highlight>",
+    "description": "Powerful AI tools for creating custom pet coloring pages, converting human pics to portraits, making vintage painting effects, and generating personalized pop art portraits online. Transform your creative workflow with intelligent art generation.",
+    "credits": "Credits",
+    "tryNow": "Try Now"
+  },
+  "FAQ": {
+    "title": "Frequently Asked Questions",
+    "description": "Everything you need to know about our AI art platform and how to create custom artwork from photos.",
+    "items": [
+      {
+        "question": "Which AI platform can turn an accurate face into a painting?",
+        "answer": "Our AI platform specializes in converting accurate faces into paintings with high precision. We use advanced context-aware AI that understands facial features, lighting, and artistic styles to create professional portrait paintings from photos."
+      },
+      {
+        "question": "How to apply oil paint effects on a photo?",
+        "answer": "Simply upload your photo and select the oil painting style. Our AI automatically applies realistic oil paint effects with proper brush strokes, texture, and color blending. The process takes 10-30 seconds with professional results."
+      },
+      {
+        "question": "Can I create custom pet coloring pages and pet outline convert for free?",
+        "answer": "Yes! Our platform includes a fun pet portrait AI canvas generator online free. You can create custom pet coloring pages, convert pet photos to outlines, and generate coloring book pages from your pet pictures."
+      },
+      {
+        "question": "How to make custom coloring pages from my photos?",
+        "answer": "Upload any photo and select the coloring page style. Our AI converts your image into clean line art perfect for coloring. You can create custom coloring pages for kids, adults, or educational purposes with professional quality."
+      },
+      {
+        "question": "Does your app create antique drawings from photos?",
+        "answer": "Absolutely! Our AI can transform modern photos into antique-style drawings, vintage paintings, and historical art styles. Perfect for making photos look like vintage painting company results with authentic period aesthetics."
+      },
+      {
+        "question": "Can I get personalized pop art portraits online?",
+        "answer": "Yes! We offer arte pop retrato personalizado online (personalized pop art portraits online). Create vibrant pop art outfits and portraits with custom colors, styles, and artistic effects from your photos."
+      }
+    ]
+  },
+  "UseCases": {
+    "title": "Creative Insights",
+    "description": "Step into our world and see how our team brings ideas to life in inspiring workspaces"
+  },
+  "Testimonials": {
+    "title": "What Users Are Saying",
+    "description": "See how creators around the world are using Flux Kontext to transform their image editing workflow."
+  },
+  "CTA": {
+    "badge": "Ready to Create Amazing Art?",
+    "title": "Ready to <highlight>Transform Your Photos into Art</highlight>?",
+    "description": "Join thousands of creators using our AI platform to turn images into graphic art, create digital drawings from photos, and generate custom artwork. Start with 30 free credits - no credit card required.",
+    "primaryButton": "Start Creating Art Free"
+  }
+}
