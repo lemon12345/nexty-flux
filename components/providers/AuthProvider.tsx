@@ -176,8 +176,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     return await supabase.auth.signInWithOAuth({
       provider: "github",
       options: {
-        redirectTo: `${window.location.origin}/auth/callback?next=${next || ""
-          }`,
+        redirectTo: `${window.location.origin}/auth/callback?next=${next || ""}`,
       },
     });
   };
@@ -239,7 +238,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
         signInWithEmail,
         signOut,
         refreshUser,
-        requireAuth,
+        requireAuth
       }}
     >
       {children}
