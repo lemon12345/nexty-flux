@@ -17,12 +17,39 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/terms-of-service',
   ]
 
+  // Image generation pages
+  const imageGenerationPages = [
+    '/coloring-pages',
+    '/cute-drawings',
+    '/flux-kontext-pro',
+    '/image-line',
+    '/line-art',
+    '/multi-image-kontext-pro',
+    '/oil-painting',
+    '/photo-to-3d-cartoon',
+    '/photo-to-caricature',
+    '/photo-to-sculpture',
+    '/photo-to-vibrant',
+    '/photo-to-vintage',
+    '/portrait-art',
+    '/sketch-drawing',
+  ]
+
   const pages = LOCALES.flatMap(locale => {
     return staticPages.map(page => ({
       url: `${siteUrl}${locale === DEFAULT_LOCALE ? '' : `/${locale}`}${page}`,
       lastModified: new Date(),
       changeFrequency: 'daily' as ChangeFrequency,
       priority: page === '' ? 1.0 : 0.8,
+    }))
+  })
+
+  const imageGenerationPagesEntries = LOCALES.flatMap(locale => {
+    return imageGenerationPages.map(page => ({
+      url: `${siteUrl}${locale === DEFAULT_LOCALE ? '' : `/${locale}`}${page}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as ChangeFrequency,
+      priority: 0.9,
     }))
   })
 
@@ -72,6 +99,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   return [
     ...pages,
+    ...imageGenerationPagesEntries,
     ...uniqueBlogPostEntries,
   ]
 }
