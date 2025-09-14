@@ -126,7 +126,7 @@
           "title": "支持",
           "links": [
             {
-              "href": "mailto:lemooon58@gmail.com",
+              "href": "mailto:hi@nextyflux.com",
               "name": "联系我们"
             }
           ]
@@ -280,7 +280,7 @@
   },
   "Blogs": {
     "title": "博客列表",
-    "description": "分享 Next.js 生态圈和 Nexty.dev 模板动态。",
+    "description": "分享 NextyFlux.com 生态圈和 NextyFlux.com 模板动态。",
     "emptyState": {
       "title": "暂无博客文章",
       "description": "我们正在创作精彩内容，敬请期待！"

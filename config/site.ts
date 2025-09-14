@@ -5,7 +5,7 @@ export const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://nextyflux.c
 const TWITTER_EN = 'https://x.com/lemon2090432'
 const TWITTER_ZH = 'https://x.com/lemon2090432'
 const BSKY_URL = 'https://bsky.app/profile/nextyflux.bsky.social'
-const EMAIL_URL = 'mailto:lemooon58@gmail.com'
+const EMAIL_URL = 'mailto:hi@nextyflux.com'
 
 export const siteConfig: SiteConfig = {
   name: 'Nexty Flux Image',

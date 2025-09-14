@@ -52,5 +52,5 @@
 問題が発生した場合は、サポートまでお問い合わせください：
 
 > - Discord: https://discord.gg/R7bUxWKRqZ
-> - Email: lemooon58@gmail.com
+> - Email: hi@nextyflux.com
 > - Twitter: https://x.com/lemon2090432

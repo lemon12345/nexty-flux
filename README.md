@@ -52,5 +52,5 @@ Supported AI models:
 If you encounter any issues, please contact me for support:
 
 > - Discord: https://discord.gg/R7bUxWKRqZ
-> - Email: lemooon58@gmail.com
+> - Email: hi@nextyflux.com
 > - Twitter: https://x.com/lemon2090432

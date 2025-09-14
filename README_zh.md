@@ -52,7 +52,7 @@
 如遇到任何问题，请联系我支持：
 
 > - Discord: https://discord.gg/R7bUxWKRqZ
-> - 邮箱：lemooon58@gmail.com
+> - 邮箱：hi@nextyflux.com
 > - 推特（中文）：https://x.com/weijunext
 > - 微信：bigye_chengpu
 

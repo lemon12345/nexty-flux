@@ -122,7 +122,7 @@
           "title": "Support",
           "links": [
             {
-              "href": "mailto:lemooon58@gmail.com",
+              "href": "mailto:hi@nextyflux.com",
               "name": "Contact Us"
             }
           ]
@@ -276,7 +276,7 @@
   },
   "Blogs": {
     "title": "Blog Posts",
-    "description": "Insights on Next.js ecosystem and Nexty.dev template updates.",
+    "description": "Insights on Next.js ecosystem and NextyFlux.com template updates.",
     "emptyState": {
       "title": "No blog posts",
       "description": "We are creating exciting content, please stay tuned!"
