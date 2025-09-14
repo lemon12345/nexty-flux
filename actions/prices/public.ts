@@ -11,7 +11,7 @@ import 'server-only';
  */
 export async function getPublicPricingPlans(): Promise<ActionResult<PricingPlan[]>> {
   const supabase = await createClient();
-  const environment = process.env.NODE_ENV === 'production' ? 'test' : 'test';
+  const environment = process.env.NODE_ENV === 'production' ? 'live' : 'test';
 
   try {
     const { data: plans, error } = await supabase

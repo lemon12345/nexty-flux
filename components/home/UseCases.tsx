@@ -100,7 +100,7 @@ export default function UseCases() {
             {artGallery.map((item, index) => (
               <div key={index} className="framed-image relative w-full">
                 {/* 主图片 - 艺术结果 */}
-                <div className="relative w-full aspect-[4/3] min-h-[400px] md:min-h-[700px] lg:min-h-[800px] xl:min-h-[900px]">
+                <div className="relative w-full aspect-[4/3] min-h-[400px] md:min-h-[600px] lg:min-h-[600px] xl:min-h-[600px]">
                   <Image
                     src={item.art}
                     alt={`${item.caption} example`}

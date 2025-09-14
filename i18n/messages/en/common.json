@@ -24,10 +24,6 @@
         "href": "/photo-to-3d-cartoon"
       },
       {
-        "name": "Cartoon Drawing",
-        "href": "/cute-drawings"
-      },
-      {
         "name": "Line Sketch",
         "href": "/image-line"
       },
@@ -38,18 +34,6 @@
       {
         "name": "Oil Painting",
         "href": "/oil-painting"
-      },
-      {
-        "name": "Pencil Sketch",
-        "href": "/sketch-drawing"
-      },
-      {
-        "name": "Sculpture",
-        "href": "/photo-to-sculpture"
-      },
-      {
-        "name": "Vintage",
-        "href": "/photo-to-vintage"
       },
       {
         "id": "pricing",
