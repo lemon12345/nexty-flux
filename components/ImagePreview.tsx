@@ -114,7 +114,7 @@ export const ImagePreview = ({
               style={{
                 position: "relative",
                 width: "100%",
-                maxWidth: "min(1600px, calc(100vw - 40px))",
+                maxWidth: "min(1000px, calc(100vw - 40px))",
                 maxHeight: "calc(100vh - 40px)",
                 aspectRatio: "3/4",
               }}
