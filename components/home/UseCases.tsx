@@ -87,7 +87,7 @@ export default function UseCases() {
     <section className="relative">
       <SectionBG5 />
       <div className="py-8 md:py-16 px-2 md:px-4">
-        <div className="max-w-[40%] md:max-w-[80%] lg:max-w-[80%] xl:max-w-[80%] mx-auto">
+        <div className="max-w-[65%] md:max-w-[65%] lg:max-w-[80%] xl:max-w-[80%] mx-auto">
           <div className="text-center mb-8 md:mb-12">
             <h2 className="text-2xl md:text-3xl font-bold mb-3 md:mb-4">{t("title")}</h2>
             <p className="text-gray-600 dark:text-gray-400 max-w-2xl mx-auto text-sm md:text-base">

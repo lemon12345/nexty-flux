@@ -40,14 +40,6 @@
         "href": "/sketch-drawing"
       },
       {
-        "name": "油画",
-        "href": "/oil-painting"
-      },
-      {
-        "name": "雕塑",
-        "href": "/photo-to-sculpture"
-      },
-      {
         "id": "pricing",
         "name": "定价",
         "href": "/#pricing"
