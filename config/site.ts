@@ -3,7 +3,7 @@ import { SiteConfig } from "@/types/siteConfig";
 export const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://nextyflux.com";
 
 const TWITTER_EN = 'https://x.com/lemon2090432'
-const TWITTER_ZH = 'https://x.com/weijunext'
+const TWITTER_ZH = 'https://x.com/lemon2090432'
 const BSKY_URL = 'https://bsky.app/profile/nextyflux.bsky.social'
 const EMAIL_URL = 'mailto:lemooon58@gmail.com'
 
@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
   url: BASE_URL,
   authors: [
     {
-      name: "nexty.dev",
+      name: "nextyflux.com",
       url: "https://nextyflux.com",
     }
   ],

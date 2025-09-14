@@ -9,7 +9,7 @@ export default function BuiltWithButton() {
   return (
     <Link
       href="https://nextyflux.com"
-      title="Built with Nexty.dev"
+      title="Built with NextyFlux.com"
       prefetch={false}
       target="_blank"
       rel="noopener noreferrer"
@@ -23,7 +23,7 @@ export default function BuiltWithButton() {
         <LogoNexty className="size-4 rounded-full" />
       </span>
       <span className="font-bold text-base-content flex gap-0.5 items-center tracking-tight">
-        Nexty.dev
+        NextyFlux.com
       </span>
     </Link>
   );
