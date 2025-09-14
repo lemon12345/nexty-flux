@@ -59,7 +59,7 @@ export default function ExamplesSection() {
 
   return (
     <section className="py-8 md:py-16 px-2 md:px-4">
-      <div className="max-w-[65%] md:max-w-[70%] lg:max-w-[70%] xl:max-w-[60%] mx-auto">
+      <div className="max-w-[80%] md:max-w-[80%] lg:max-w-[80%] xl:max-w-[80%] mx-auto">
         <div className="text-center mb-8 md:mb-12">
           <h2 className="text-2xl md:text-3xl font-bold mb-3 md:mb-4">
             {t("title")}
@@ -75,7 +75,7 @@ export default function ExamplesSection() {
             {portraitExamples.map((example) => (
               <div key={example.id} className="framed-image relative w-full">
                 {/* 主图片 - 复古风格结果 */}
-                <div className="relative w-full aspect-[4/3] min-h-[400px] md:min-h-[700px] lg:min-h-[800px] xl:min-h-[900px]">
+                <div className="relative w-full aspect-[4/3] min-h-[500px] md:min-h-[500px] lg:min-h-[800px] xl:min-h-[800px]">
                   <Image
                     src={example.result}
                     alt={example.title}
