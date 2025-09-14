@@ -87,7 +87,7 @@ export default function UseCases() {
     <section className="relative">
       <SectionBG5 />
       <div className="py-8 md:py-16 px-2 md:px-4">
-        <div className="max-w-[65%] md:max-w-[65%] lg:max-w-[80%] xl:max-w-[80%] mx-auto">
+        <div className="max-w-[80%] md:max-w-[80%] lg:max-w-[80%] xl:max-w-[80%] mx-auto">
           <div className="text-center mb-8 md:mb-12">
             <h2 className="text-2xl md:text-3xl font-bold mb-3 md:mb-4">{t("title")}</h2>
             <p className="text-gray-600 dark:text-gray-400 max-w-2xl mx-auto text-sm md:text-base">
@@ -100,7 +100,7 @@ export default function UseCases() {
             {artGallery.map((item, index) => (
               <div key={index} className="framed-image relative w-full">
                 {/* 主图片 - 艺术结果 */}
-                <div className="relative w-full aspect-[4/3] min-h-[400px] md:min-h-[600px] lg:min-h-[600px] xl:min-h-[600px]">
+                <div className="relative w-full aspect-[4/3] min-h-[500px] md:min-h-[500px] lg:min-h-[700px] xl:min-h-[700px]">
                   <Image
                     src={item.art}
                     alt={`${item.caption} example`}
