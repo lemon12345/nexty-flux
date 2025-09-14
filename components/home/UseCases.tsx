@@ -7,16 +7,16 @@ import Image from "next/image";
 // 使用与index.html完全一致的图片数据
 const artGallery = [
   {
-    art: "/static/gallery/wedding3_oilpainting_1024.png",
-    reference: "/static/gallery/wedding3_original_512.webp",
-    caption: "Oil Painting",
-    link: "/oil-painting"
+    art: "/static/gallery/couple_vibrant_1024.png",
+    reference: "/static/gallery/couple_original_512.webp",
+    caption: "Vibrant",
+    link: "/photo-to-vibrant"
   },
   {
-    art: "/static/gallery/girl2_sculpture_1024.png",
-    reference: "/static/gallery/girl2_original_512.jpg",
-    caption: "Sculpture",
-    link: "/photo-to-sculpture"
+    art: "/static/gallery/girl8_linesketch_1024.jpeg",
+    reference: "/static/gallery/girl8_linesketch_512.jpg",
+    caption: "Line Sketch",
+    link: "/image-line"
   },
   {
     art: "/static/gallery/mother5_coloring_page_1024.png",
@@ -67,16 +67,16 @@ const artGallery = [
     link: "/cute-drawings"
   },
   {
-    art: "/static/gallery/couple_vibrant_1024.png",
-    reference: "/static/gallery/couple_original_512.webp",
-    caption: "Vibrant",
-    link: "/photo-to-vibrant"
+    art: "/static/gallery/wedding3_oilpainting_1024.png",
+    reference: "/static/gallery/wedding3_original_512.webp",
+    caption: "Oil Painting",
+    link: "/oil-painting"
   },
   {
-    art: "/static/gallery/girl8_linesketch_1024.jpeg",
-    reference: "/static/gallery/girl8_linesketch_512.jpg",
-    caption: "Line Sketch",
-    link: "/image-line"
+    art: "/static/gallery/father6_oldphoto_sculpture_1024.png",
+    reference: "/static/gallery/father6_oldphoto_original_512.webp",
+    caption: "Sculpture",
+    link: "/photo-to-sculpture"
   }
 ];
 
